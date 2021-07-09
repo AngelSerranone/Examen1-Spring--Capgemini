@@ -11,14 +11,13 @@ import org.aspectj.lang.annotation.Pointcut;
 import org.springframework.stereotype.Component;
 import es.curso.examen.modelo.Empleado;
 
-// Esta clase representa el aspecto, pues hace operaciones transversales
-@Aspect
+
 @Component
 public class FicherosLog {
 	
 //	@Pointcut(value="execution(* es.curso.examen.dao.IEmpleadoDAO.create(es.curso.examen.modelo.Empleado))&&args(e)")
 //	public void puntoCorte1(Empleado e) {}
-//	
+
 //	@Pointcut(value="execution(* es.curso.examen.dao.IEmpleadoDAO.update(es.curso.examen.modelo.Empleado))&&args(e)")
 //	public void puntoCorte2(Empleado e) {}
 //	
