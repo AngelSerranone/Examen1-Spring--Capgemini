@@ -1,0 +1,3 @@
+09/07/2021 09:24:31.527	contenido de la linea de log
+09/07/2021 09:24:31.528	Otra linea de log
+09/07/2021 09:24:31.528	Una tercera linea de log
